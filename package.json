@@ -12,11 +12,11 @@
           "type": "git",
           "url": "https://github.com/utilcode/simple-template.git"
     },
-  "keywords": [
+    "keywords": [
         "vel",
         "application-bypass",
         "gif",
         "eminent",
-        "naive",
-  ]
+        "naive"
+      ]
 }
