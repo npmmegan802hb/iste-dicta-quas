@@ -1,17 +1,22 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
-  },
-  "dependencies": {
-  }
+    "name": "@test/simple-template",
+    "version": "1.0.15",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+          "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "MIT",
+    "repository": {
+          "type": "git",
+          "url": "https://github.com/utilcode/simple-template.git"
+    },
+  "keywords": [
+        "vel",
+        "application-bypass",
+        "gif",
+        "eminent",
+        "naive",
+  ]
 }
